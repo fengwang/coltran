@@ -1,5 +1,7 @@
 # Colorization Transformer
 
+-- adapted from google-research/coltran
+
 Source code accompanying the paper [Colorization Transformer](https://openreview.net/forum?id=5NA1PinlGFu) to be presented at
 ICLR 2021.
 Work by Manoj Kumar, Dirk Weissenborn and Nal Kalchbrenner.
